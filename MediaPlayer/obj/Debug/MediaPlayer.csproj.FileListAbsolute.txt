@@ -1,0 +1,200 @@
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+G:\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+G:\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+G:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+G:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+G:\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+G:\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+G:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+I:\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+I:\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+I:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+I:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+I:\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+I:\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+I:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\Hassan\MediaPlayer 12-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\Hassan\MediaPlayer 13-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\Projects\Hassan\MediaPlayer 14-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\Projects\Hassan\MediaPlayer 16-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.EditForm.resources
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\Hassan\MediaPlayer 17-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\Projects\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.About.resources
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.MainForm.resources
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.PLForm.resources
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Hassan\Hassan\MediaPlayer 18-11\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll

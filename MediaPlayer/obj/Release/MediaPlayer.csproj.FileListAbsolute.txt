@@ -1,0 +1,29 @@
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\Interop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\AxInterop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Release\MediaPlayer.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Release\MediaPlayer.pdb
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Release\Interop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.MainForm.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.PLForm.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.Properties.Resources.resources
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.pdb
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\Interop.WMPLib.dll
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.exe
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.pdb
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\bin\Release\MediaPlayer.exe
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\bin\Release\MediaPlayer.pdb
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\bin\Release\Interop.WMPLib.dll
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.MainForm.resources
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.PLForm.resources
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.Properties.Resources.resources
+C:\Users\user\Desktop\MediaPlayer 17-11\MediaPlayer\obj\Release\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\MediaPlayer\MediaPlayer\obj\Release\MediaPlayer.About.resources
